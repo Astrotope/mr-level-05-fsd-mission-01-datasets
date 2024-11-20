@@ -30,6 +30,8 @@ Dataset Folder Structure
  
 ```
 
+Note: A 'cab' is short for 'cabin', and it is what we call a Ute (Utility) in New Zealand.
+
 Dataset Contents
 
 * Image counts in train folders:
