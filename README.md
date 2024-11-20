@@ -1,6 +1,6 @@
 # AI Vehicle Identification Datasets
 
-Dataset Folder Structure
+## Dataset Folder Structure
 
 ```
 /train
@@ -32,7 +32,7 @@ Dataset Folder Structure
 
 Note: A 'cab' is short for 'cabin', and it is what we call a Ute (Utility) in New Zealand.
 
-Dataset Contents
+## Dataset Contents
 
 * Image counts in train folders:
 	
@@ -62,12 +62,12 @@ Dataset Contents
 	* convertible: 1022
 	* wagon: 250
 
-Download Dataset
+## Download Dataset
 
 * Dataset Archive [Google Drive - ai-vehicle-id-dataset.zip](https://drive.google.com/file/d/1o8ZxFqylNY37aoDljaFLhQDxv_iu9PdI/view?usp=drive_link)
 * Browse Dataset [Google Drive - folder - ai-vehicle-id-dataset](https://drive.google.com/drive/folders/1BKlVwcp2yWBfIMbXleIblvZ8fywM70RF?usp=drive_link)
 
-The images were sourced from the following datasets:
+## The images were sourced from the following datasets:
 
 * Car Images - Standford Cars Dataset
 	* Image Files - Download via KaggleHub - Dataset Name: jutrera/stanford-car-dataset-by-classes-folder
@@ -91,4 +91,8 @@ The images were sourced from the following datasets:
 	* Dataset Description [BG-20K GitHub](https://github.com/JizhiziLi/GFM?tab=readme-ov-file#bg-20k)
 	* Usage Agreement [Dataset Agreement](https://jizhizili.github.io/files/gfm_datasets_agreements/BG-20k_Dataset_Release_Agreement.pdf)
 	* License [MIT License](https://github.com/JizhiziLi/GFM/blob/master/LICENSE)
+
+## Explore Dataset in Google Colab
+
+* Colab Notebook to Load and Explore Dataset [Google Colab](https://colab.research.google.com/drive/1apzmMH28lyQxR0PqjXztb4hIESP98XYV?usp=sharing)
 
