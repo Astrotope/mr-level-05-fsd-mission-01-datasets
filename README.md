@@ -69,7 +69,7 @@ Note: A 'cab' is short for 'cabin', and it is what we call a Ute (Utility) in Ne
 
 ## The images were sourced from the following datasets:
 
-* Car Images - Standford Cars Dataset
+* Car Images - Stanford Cars Dataset
 	* Image Files - Download via KaggleHub - Dataset Name: jutrera/stanford-car-dataset-by-classes-folder
 
 		```
