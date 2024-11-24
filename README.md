@@ -81,7 +81,7 @@ Note: A 'cab' is short for 'cabin', and it is what we call a Ute (Utility) in Ne
 		print("Path to dataset files:", path)
 		```
 
-	* Dataset Description [Standford Cars Dataset](https://www.kaggle.com/datasets/jutrera/stanford-car-dataset-by-classes-folder/data)
+	* Dataset Description [Stanford Cars Dataset](https://www.kaggle.com/datasets/jutrera/stanford-car-dataset-by-classes-folder/data)
 	* License [ImageNet License](https://www.image-net.org/download.php)
 * Truck Images - Images.CV - Trucks Dataset
 	* Image Files [Images.CV Trucks Dataset](https://images.cv/dataset/truck-image-classification-dataset) 
